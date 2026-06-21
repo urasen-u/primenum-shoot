@@ -34,6 +34,7 @@ Spaceキー:発射
 これにより、攻撃の成功失敗をより直感的に表すことに成功しました。
 
 ↓他のプロジェクトはこちら↓
+
 https://github.com/urasen-u/tipshot
 
 
